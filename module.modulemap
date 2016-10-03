@@ -1,0 +1,5 @@
+module CGDI {
+    header "CGDI.h"
+    link "gdi32"
+    export *
+}
